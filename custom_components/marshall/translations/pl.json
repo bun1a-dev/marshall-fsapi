@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Marshall FSAPI",
+        "description": "Wprowadź dane głośnika",
+        "data": {
+          "host": "Adres IP",
+          "pin": "PIN"
+        }
+      }
+    }
+  }
+}
