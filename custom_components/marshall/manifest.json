@@ -1,0 +1,10 @@
+{
+  "domain": "marshall",
+  "name": "Marshall Speakers",
+  "version": "1.0.0",
+  "documentation": "https://github.com/bun1a-dev/marshall-fs",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "config_flow": true
+}

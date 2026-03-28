@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Marshall FSAPI",
+        "description": "Enter speaker details",
+        "data": {
+          "host": "IP Address",
+          "pin": "PIN"
+        }
+      }
+    }
+  }
+}
